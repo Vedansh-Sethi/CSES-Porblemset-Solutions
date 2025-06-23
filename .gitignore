@@ -1,0 +1,26 @@
+# Compiled files
+*.out
+*.exe
+*.o
+*.obj
+*.class
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE stuff
+.vscode/
+*.code-workspace
+
+# Inputs/Outputs
+input.txt
+output.txt
+testcases.txt
+
+# Logs
+*.log
+
+# Swap and temp files
+*~
+*.swp
