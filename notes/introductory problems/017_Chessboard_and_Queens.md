@@ -16,6 +16,6 @@
 #### Example 
 - let us assume we have an empty board, the number of such favourable cases in this scenario is 92.
 - We will explore the searching method of the computer by printing some favourable cases in the order the program  processes them.
-- first arrangement - ![first arrangement](assets/arrange1.png) second arrangement- ![second arrangement](assets/arrange1.png)
+- first arrangement - ![first arrangement](assets/arrange1.png) second arrangement- ![second arrangement](assets/arrange2.png)
 - As we can see, the program moved from first arrrangement to second arrangement by only changing the least number of rows possible
 - The 1<sup>st</sup> row is same in both the cases as it is first exploring all viable solutions where the 1<sup>st</sup> is arranged such.
